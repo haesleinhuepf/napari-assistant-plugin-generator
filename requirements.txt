@@ -1,0 +1,7 @@
+napari-plugin-engine>=0.1.4
+magicgui
+numpy!=1.19.4
+napari-tools-menu
+dask
+autopep8
+cookiecutter
