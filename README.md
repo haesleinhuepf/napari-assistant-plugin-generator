@@ -64,7 +64,7 @@ from napari_time_slicer import time_slicer
 def napari_experimental_provide_function():
     return [process_image]
 
-@register_function(menu="Scripts > Process image")
+@register_function(menu="Segmentation / labeling > Segment image")
 @time_slicer
 def process_image(image0_b: "napari.types.ImageData", gaussian_blur_sigma_2: float = 1.0, connected_component_labeling_exclude_on_edges_3: bool = False) -> "napari.types.LabelsData":
     """
