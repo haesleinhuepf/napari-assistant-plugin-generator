@@ -5,3 +5,4 @@ napari-tools-menu
 dask
 autopep8
 cookiecutter
+napari-assistant>=0.4.1
