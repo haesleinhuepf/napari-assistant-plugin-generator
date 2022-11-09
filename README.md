@@ -1,12 +1,13 @@
 # napari-assistant-plugin-generator
-[![License](https://img.shields.io/pypi/l/napari-assistant-plugin-generator.svg?color=green)](https://github.com/haesleinhuepf/napari-assistant-plugin-generator/raw/master/LICENSE)
+[![License](https://img.shields.io/pypi/l/napari-assistant-plugin-generator.svg?color=green)](https://github.com/haesleinhuepf/napari-assistant-plugin-generator/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-assistant-plugin-generator.svg?color=green)](https://pypi.org/project/napari-assistant-plugin-generator)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-assistant-plugin-generator.svg?color=green)](https://python.org)
 [![tests](https://github.com/haesleinhuepf/napari-assistant-plugin-generator/workflows/tests/badge.svg)](https://github.com/haesleinhuepf/napari-assistant-plugin-generator/actions)
-[![codecov](https://codecov.io/gh/haesleinhuepf/napari-assistant-plugin-generator/branch/master/graph/badge.svg)](https://codecov.io/gh/haesleinhuepf/napari-assistant-plugin-generator)
+[![codecov](https://codecov.io/gh/haesleinhuepf/napari-assistant-plugin-generator/branch/main/graph/badge.svg)](https://codecov.io/gh/haesleinhuepf/napari-assistant-plugin-generator)
 [![Development Status](https://img.shields.io/pypi/status/napari-assistant-plugin-generator.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-assistant-plugin-generator)](https://napari-hub.org/plugins/napari-assistant-plugin-generator)
-[![DOI](https://zenodo.org/badge/322312181.svg)](https://zenodo.org/badge/latestdoi/322312181)
+[![DOI](https://zenodo.org/badge/563886413.svg)](https://zenodo.org/badge/latestdoi/563886413)
+
 
 The napari-assistant-plugin-generator is a [napari](https://github.com/napari/napari) plugin to generate python code which can be pip-installed and serve as napari-plugin compatible with the [napari-assistant](https://www.napari-hub.org/plugins/napari-assistant).
 
